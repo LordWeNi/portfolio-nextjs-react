@@ -25,7 +25,7 @@ export default function About() {
         le pas, et me lancer cœur et âme dans ma passion du numérique.
       </p> 
       <p> C'est avec la plus grande {" "}<span className="font-medium">détermination</span> que j'ai obtenu divers certifications, et
-        avec la plus grande {" "}<span className="font-medium">motivation</span> que je recherche maintenant une
+        avec la plus grande {" "}<span className="font-medium">motivation</span> que je recherche actuellement une
         {" "}<span className="font-medium">opportunité de carrière</span> en tant que développeur web.
         </p>
         
