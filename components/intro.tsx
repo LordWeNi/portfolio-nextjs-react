@@ -64,7 +64,7 @@ export default function Intro() {
       >
         <span className="font-bold"></span> {" "}Hello, je suis Nicolas.
         <span className="font-bold">Web developer,</span> {" "}
-        <span className="font-bold">passioné</span> par les nouvelles technologies du web. Focus sur des projets{" "}
+        <span className="font-bold">passionné</span> par les nouvelles technologies du web. Focus sur des projets{" "}
         <span className="underline">React (Next.js)</span>.
       </motion.h1>
 
